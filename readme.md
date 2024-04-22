@@ -1,5 +1,5 @@
 # Project : Animation
 
-### Images
+### Expected Outcome
 
-(./image/chrome-capture-2024-4-22%20(1).gif)
+![Project Snapshot](./image/chrome-capture-2024-4-22%20(1).gif)
